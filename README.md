@@ -1,7 +1,7 @@
 # StripeAPI-with-NodeJS
-Created a Web App to consume Stripe API .
+## Created a Web App to consume Stripe API .
 
-<b>Getting started<b>
+## `Getting started`
 
 To get the frontend running locally:
 <ul>
